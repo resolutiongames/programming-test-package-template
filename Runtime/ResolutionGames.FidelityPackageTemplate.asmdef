@@ -1,0 +1,16 @@
+{
+    "name": "ResolutionGames.FidelityPackageTemplate",
+    "rootNamespace": "",
+    "references": [
+    ],
+    "includePlatforms": [
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+    ],
+    "noEngineReferences": false
+}
