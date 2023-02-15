@@ -1,4 +1,4 @@
-# Core Tech & Tools Hiring Test
+# Core Tech & Tools Hiring Assignment
 
 ## Preparations
 
